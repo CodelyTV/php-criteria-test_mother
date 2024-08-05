@@ -18,5 +18,5 @@ Any modification must be done in the [main repository](https://github.com/Codely
 ## 📥 Installation
 
 ```sh
-composer require codelytv/criteria-test-mother
+composer require codelytv/criteria-test-mother --dev
 ```
